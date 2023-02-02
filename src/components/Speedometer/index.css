@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #07080c;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+}
+
+.heading {
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.image {
+  height: 50px;
+  width: 50px;
+}
+
+.buttons-container {
+  display: flex;
+}
+
+.accelerate-button {
+  background-color: #0b69ff;
+  color: #ffffff;
+}
+
+.brake-button {
+  background-color: transparent;
+  color: #ffffff;
+  border: 2px solid #ffffff;
+}
